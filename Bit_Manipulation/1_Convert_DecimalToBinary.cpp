@@ -37,6 +37,6 @@ int main()
 {
     int n;
     cin >> n;
-    cout << "Binary of num 59 is: "<<DecimalToBinary(n);
+    cout << "Binary of num "<<n<< "is: "<<DecimalToBinary(n);
     return 0;
 }
