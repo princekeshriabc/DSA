@@ -10,3 +10,8 @@ We welcome contributions to our repository! Whether it's bug reports, feature re
 2. **Clone the Forked Repository**: Use the following command to clone your forked repository to your local machine:
    ```bash
    git clone https://github.com/YOUR_USERNAME/YOUR_FORKED_REPO.git
+
+### OR 
+**Clone the Repository**: Use the following command to clone my  repository to your local machine:
+   ```bash
+   git clone https://github.com/princekeshriabc/DSA.git
