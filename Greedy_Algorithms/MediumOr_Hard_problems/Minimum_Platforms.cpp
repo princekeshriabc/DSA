@@ -1,6 +1,6 @@
 // Minimum Platforms
 // https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1
-// // time complexity = O(nlog(n))
+// time complexity = O(nlog(n))
 // space complexity = O(1)
 
 class Solution
